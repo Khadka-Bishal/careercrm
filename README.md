@@ -1,6 +1,6 @@
 # careercrm
 
-this is a serverless web application that automatically tracks job applications by analyzing my gmail inbox.
+this is a serverless web application that automatically tracks job applications by analyzing gmail inbox.
 
 ## what it does
 
